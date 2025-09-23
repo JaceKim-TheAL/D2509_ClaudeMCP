@@ -33,9 +33,9 @@
 ## 학습전에 알아두기
 
 ### 오픈카톡 및 유튜브
-- 오픈카톡방1 : open.kakao.com/o/gBWRpyvg
-- 오픈카톡방2 : open.kakao.com/o/g9rMB0dh
-- 유튜브 채널 : youtube.com/@editorp89
+- 오픈카톡방1 : [open.kakao.com/o/gBWRpyvg](https://open.kakao.com/o/gBWRpyvg)
+- 오픈카톡방2 : [open.kakao.com/o/g9rMB0dh](https://open.kakao.com/o/g9rMB0dh)
+- 유튜브 채널 : [youtube.com/@editorp89](https://www.youtube.com/@editorp89)
 
 ### 클로드 유료버전으로 유지
 - 클로드 유료구독(20달러) 가정하에 실습
